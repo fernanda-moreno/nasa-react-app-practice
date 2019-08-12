@@ -6,3 +6,5 @@ By following this tutorial, I learned about props and states in React as well as
 I've been playing around with the styling and I hope to implement new features to this app as I develop my React skills even further.
 
 This React app was set up by following the instructions on the [Create React App](https://github.com/facebook/create-react-app) project generator developed by Facebook.
+
+[NASA pic](nasa-pic-of-day.png)
