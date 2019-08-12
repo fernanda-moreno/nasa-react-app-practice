@@ -7,4 +7,4 @@ I've been playing around with the styling and I hope to implement new features t
 
 This React app was set up by following the instructions on the [Create React App](https://github.com/facebook/create-react-app) project generator developed by Facebook.
 
-[NASA pic](nasa-pic-of-day.png)
+![NASA pic](nasa-pic-of-day.png)
